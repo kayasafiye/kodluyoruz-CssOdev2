@@ -1,2 +1,2 @@
 # kodluyoruz-CssOdev2
-Google Ana Sayfasını Tasarlamak
+Google'ın 1998 yılındaki Ana Sayfasını Tasarlamak.
